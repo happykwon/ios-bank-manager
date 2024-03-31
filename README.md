@@ -38,6 +38,7 @@ Sessac yagomAcademy 네번째 프로젝트
 
 ### 스텝 핵심 경험
 ⬜️ Queue의 활용
+
 ⬜️ 타입 추상화 및 일반화
 
 ## Step 3 : 다중처리
@@ -55,11 +56,17 @@ Sessac yagomAcademy 네번째 프로젝트
 
 ### 스텝 핵심 경험
 ⬜️ 동기(Synchronous)와 비동기(Asynchronous)의 이해
+
 ⬜️ 동시성 프로그래밍 개념의 이해
+
 ⬜️ 동시성 프로그래밍을 위한 기반기술(GCD, Operation) 등의 이해
+
 ⬜️ 스레드(Thread) 개념에 대한 이해
+
 ⬜️ GCD를 활용한 동시성 프로그래밍 구현
+
 ⬜️ 동기(Synchronous)와 비동기(Asynchronous) 동작의 구현 및 적용
+
 
 
 
